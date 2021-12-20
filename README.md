@@ -1,2 +1,2 @@
 # BoyDoge-trc20
-http://boydoge.org/
+https://boydoge.org/
